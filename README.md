@@ -35,7 +35,7 @@ Este programa em JavaScript simula uma agência de viagens, permitindo que os cl
    123456
    ```
 
-- Use Node.js vá para odiretório da pasta do arquivo e digite no terminal ou prompt:
+- Use Node.js vá para o diretório da pasta do arquivo e digite no terminal ou prompt:
 
    ```sh
    node agenciaDeViagens.js
