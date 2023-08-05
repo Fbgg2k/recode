@@ -23,12 +23,23 @@ Este programa em JavaScript simula uma agência de viagens, permitindo que os cl
 2. Clone este repositório para sua máquina local.
 3. Abra o terminal e navegue até o diretório do repositório clonado.
 4. Execute o seguinte comando para iniciar o programa:
+login adm:
+   ```sh
+      bferreirafelipe@gmail.com
+   ```
+
+senha adm:
+
+   ```sh
+      123456
+   ```
+
 
    ```sh
    node agenciaDeViagens.js
    ```
 
-5. Siga as instruções no terminal para interagir com o programa.
+6. Siga as instruções no terminal para interagir com o programa.
 
 ## Requisitos
 
